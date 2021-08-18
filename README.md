@@ -45,3 +45,5 @@ Thanks to all who take time and energy to perform Kernels with this dataset and 
 Purpose
 
 This dataset can be used for exploratory and predictive data analytics purpose.
+
+Source data: https://www.kaggle.com/aungpyaeap/supermarket-sales
