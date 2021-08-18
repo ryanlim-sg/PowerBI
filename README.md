@@ -1,3 +1,3 @@
 # PowerBI
 
-Samples of PowerBI dashboards and reports.
+This repositories contains some of Power BI report and dashboard created for the educational purposes.
