@@ -1,6 +1,6 @@
 # Context
 
-The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. Predictive data analytics methods are easy to apply with this dataset.
+The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. Descriptive and Predictive data analytics methods are easy to apply with this dataset.
 
 # Attribute information
 
@@ -44,6 +44,6 @@ Thanks to all who take time and energy to perform Kernels with this dataset and 
 
 # Purpose
 
-This dataset can be used for exploratory and predictive data analytics purpose.
+This dataset can be used for descriptive and predictive data analytics purpose.
 
 Source data: https://www.kaggle.com/aungpyaeap/supermarket-sales
